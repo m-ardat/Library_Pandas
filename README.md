@@ -1,2 +1,2 @@
-# Library_Pandas
+# Library Pandas
 Выжимка из Pandas
