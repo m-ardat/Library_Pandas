@@ -21,6 +21,7 @@
 |----------|----------|------------------|
 |[Объект Series: Структура данных Series](https://github.com/m-ardat/Library_Pandas/blob/main/%D0%9E%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%20Series%20%20%D0%B8%20%D0%B5%D0%B3%D0%BE%20%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85.ipynb) | Структура данных <br> Создание объекта <br> Методы, параметры и атрибуты <br> Типы данных <br> Работа с конкретными значениями объекта <br> Арифметические операции| Информация появится позже |
 |[Структура данных DataFrame](https://github.com/m-ardat/Library_Pandas/blob/main/%D0%A1%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20DataFrame.ipynb)| | |
+|[Доступ к данным](https://github.com/m-ardat/Library_Pandas/blob/main/%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%20%D0%BA%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC.ipynb)| | |
 
 ### Автор
 - Максим Ардат - [GitHub](https://github.com/m-ardat), [Telegram](https://t.me/m_ardat)
